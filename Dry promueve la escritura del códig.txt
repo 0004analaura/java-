@@ -1,0 +1,6 @@
+Dry: promueve la escritura del código limpio y eficiente y cada fragmento de información debe existir en un solo lugar dentro del código. Este ayuda a que el código no sea largo y sea mas fácil de agregar otras funciones. 
+
+
+Kiss: Sirve para escribir código fácil de comprender y utilizar la menos cantidad posible de elementos para resolver problemas y que el código sea lo mas simple posible. 
+
+S.O.L.I.D: sirve para mantener un código limpio, evita que las clases sean grandes y complejas asi haciéndolas mas fáciles de entender y modificar.
